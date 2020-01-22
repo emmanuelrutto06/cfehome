@@ -1,0 +1,455 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"user",
+				"user_obj"
+			],
+			[
+				"key",
+				"session_key"
+			],
+			[
+				"tag",
+				"tag_set"
+			],
+			[
+				"login",
+				"login_url"
+			],
+			[
+				"nav",
+				"navbar"
+			],
+			[
+				"home",
+				"home_url"
+			],
+			[
+				"Product",
+				"ProductAdmin"
+			],
+			[
+				"P",
+				"Product"
+			],
+			[
+				"Pro",
+				"ProductDetailView"
+			],
+			[
+				"base",
+				"base_name"
+			],
+			[
+				"list",
+				"ListView"
+			],
+			[
+				"passwo",
+				"password"
+			],
+			[
+				"pass",
+				"PasswordInput"
+			],
+			[
+				"con",
+				"context"
+			],
+			[
+				"co",
+				"context"
+			],
+			[
+				"fo",
+				"forms"
+			],
+			[
+				"contact",
+				"contact_form"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/carts/models.py",
+			"settings":
+			{
+				"buffer_size": 734,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "Lib/site-packages/django/db/models/base.py",
+			"settings":
+			{
+				"buffer_size": 75874,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/carts/admin.py",
+			"settings":
+			{
+				"buffer_size": 86,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "src/carts/views.py",
+			"settings":
+			{
+				"buffer_size": 304,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"indentation",
+				"Indentation: Reindent Lines"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/rutto/Dev/cfehome",
+		"/C/Users/rutto/Dev/cfehome/src",
+		"/C/Users/rutto/Dev/cfehome/src/carts",
+		"/C/Users/rutto/Dev/cfehome/src/carts/templates",
+		"/C/Users/rutto/Dev/cfehome/src/carts/templates/carts",
+		"/C/Users/rutto/Dev/cfehome/src/cfehome"
+	],
+	"file_history":
+	[
+		"/C/Users/rutto/Dev/cfehome/Lib/site-packages/django/db/models/base.py",
+		"/C/Users/rutto/Desktop/Django Project/7. Cart Component/6. Cart Model Manager Part 1.mp4",
+		"/C/Users/rutto/Dev/cfehome/src/carts/templates/carts/home.html",
+		"/C/Users/rutto/Dev/cfehome/src/cfehome/urls.py",
+		"/C/Users/rutto/Dev/cfehome/src/carts/views.py",
+		"/C/Users/rutto/Dev/cfehome/src/cfehome/views.py",
+		"/C/Users/rutto/Dev/cfehome/src/tags/models.py",
+		"/C/Users/rutto/Dev/cfehome/src/cfehome/settings.py",
+		"/C/Users/rutto/Dev/cfehome/Lib/site-packages/django/template/defaulttags.py",
+		"/C/Users/rutto/Dev/cfehome/src/tags/shell_commands.py",
+		"/C/Users/rutto/Dev/cfehome/src/products/models.py",
+		"/C/Users/rutto/Desktop/Django Project/7. Cart Component/2. Cart App.mp4",
+		"/C/Users/rutto/Desktop/Django Project/7. Cart Component/1. Intro.mp4",
+		"/C/Users/rutto/Dev/cfehome/src/search/urls.py",
+		"/C/Users/rutto/Dev/cfehome/src/search/views.py",
+		"/C/Users/rutto/Dev/cfehome/src/search/templates/search/view.html",
+		"/C/Users/rutto/Dev/cfehome/src/search/templates/search/snippets/search-form.html",
+		"/C/Users/rutto/Dev/cfehome/src/templates/base/navbar.html",
+		"/C/Users/rutto/Dev/cfehome/src/tags/admin.py",
+		"/C/Users/rutto/Dev/cfehome/src/products/admin.py",
+		"/C/Users/rutto/Dev/cfehome/src/products/utils.py",
+		"/C/Users/rutto/Dev/cfehome/src/search/admin.py",
+		"/C/Users/rutto/Desktop/Django Project/6. Search Component/7. Shell Commands for a Brief Intro to Foreign Keys.mp4",
+		"/C/Users/rutto/Dev/cfehome/src/search/models.py",
+		"/C/Users/rutto/Dev/cfehome/src/products/urls.py",
+		"/C/Users/rutto/Dev/cfehome/src/products/views.py",
+		"/C/Users/rutto/Dev/cfehome/src/products/templates/products/list.html",
+		"/C/Users/rutto/Dev/cfehome/src/products/templates/products/detail.html",
+		"/C/Users/rutto/Dev/cfehome/src/templates/auth/login.html",
+		"/C/Users/rutto/Dev/cfehome/src/templates/auth/register.html",
+		"/C/Users/rutto/Dev/cfehome/src/templates/bootstrap/example.html",
+		"/C/Users/rutto/Dev/cfehome/src/templates/base/inayo.html",
+		"/C/Users/rutto/Dev/cfehome/src/manage.py",
+		"/C/Users/rutto/Dev/cfehome/src/products/templates/products/featured-detail.html",
+		"/C/Users/rutto/Dev/cfehome/src/templates/home_page.html",
+		"/C/Users/rutto/Dev/cfehome/src/templates/base.html",
+		"/C/Users/rutto/Dev/cfehome/src/templates/contact/view.html",
+		"/C/Users/rutto/Dev/cfehome/src/static_my_project/css/main.css",
+		"/C/Users/rutto/Dev/cfehome/src/templates/base/js.html",
+		"/C/Users/rutto/Dev/cfehome/src/templates/base/css.html",
+		"/C/Users/rutto/Dev/cfehome/src/products/utility.py",
+		"/C/Users/rutto/Dev/cfehome/src/products/templates/products/snippets/card.html",
+		"/C/Users/rutto/Dev/cfehome/src/cfehome/forms.py",
+		"/C/Users/rutto/Dev/cfehome/src/templates/contact/base.html",
+		"/C/Users/rutto/Dev/cfehome/src/products/templates/base.html",
+		"/C/Users/rutto/Dev/cfehome/src/products/featured-detail.html",
+		"/C/Users/rutto/Dev/cfehome/Lib/site-packages/django/contrib/auth/models.py",
+		"/C/Users/rutto/Dev/cfehome/Lib/sre_parse.py",
+		"/C/Users/rutto/Dev/cfehome/src/templates/contact"
+	],
+	"find":
+	{
+		"height": 28.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"html",
+			">\n",
+			"products",
+			"Http404",
+			"return",
+			">\")"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/carts/models.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 734,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								341,
+								341
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 228.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "Lib/site-packages/django/db/models/base.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 75874,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								17,
+								17
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "src/carts/admin.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 86,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								85,
+								85
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "src/carts/views.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 304,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								303,
+								303
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 114.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 46.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "cfehome.sublime-project",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 221.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
